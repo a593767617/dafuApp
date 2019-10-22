@@ -1,0 +1,435 @@
+/* LESS Document */
+.huodong {
+  padding: 0 0.75rem;
+}
+.huodong_1 {
+  padding-bottom: 0.75rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #333333;
+}
+.huodong_2 {
+  width: 100%;
+  padding-bottom: 1rem;
+}
+.huodong_2 ul li {
+  margin-bottom: 0.875rem;
+}
+.huodong_2 ul li a img {
+  width: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.15rem rgba(0, 0, 0, 0.2);
+}
+/*活动-红包*/
+.hd_hongbao {
+  padding-bottom: 1rem;
+}
+.hd_hongbao_1 {
+  height: 2.5rem;
+  background-color: #ffffff;
+  padding: 0 0.75rem;
+}
+.hd_hongbao_1_left {
+  width: auto;
+  float: left;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  font-size: 0.85rem;
+  color: #000000;
+}
+.hd_hongbao_1_left img {
+  vertical-align: middle;
+  width: 0.475rem;
+  height: 0.875rem;
+  margin-right: 0.1rem;
+}
+.hd_hongbao_1_right {
+  width: auto;
+  float: right;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  font-size: 0.85rem;
+  color: #00c17b;
+}
+.hd_hongbao_2 {
+  padding: 0.75rem 0 0.5rem;
+  text-align: right;
+}
+.hd_hongbao_2 span {
+  display: inline-block;
+  width: 3.95rem;
+  height: 1.425rem;
+  background-color: #00c17b;
+  border-radius: 1.425rem 0 0 1.425rem;
+  text-align: center;
+  line-height: 1.425rem;
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_hongbao_3 {
+  padding-bottom: 1.75rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #999999;
+}
+.hd_hongbao_3 h2 {
+  font-size: 1.15rem;
+  color: #333333;
+  padding-bottom: 0.3rem;
+}
+.hd_hongbao_4 {
+  background-image: url(../images/huodong_hongbao_11.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 12.25rem 16.225rem;
+  height: 16.225rem;
+}
+.hd_hongbao_4_01 {
+  padding: 1.25rem 0 1rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #ffe535;
+}
+.hd_hongbao_4_01 h2 {
+  font-size: 1.15rem;
+  color: #ffe535;
+  padding-bottom: 0.25rem;
+}
+.hd_hongbao_4_02 {
+  padding-bottom: 1.375rem;
+  text-align: center;
+  font-size: 1.25rem;
+  color: #ffe535;
+}
+.hd_hongbao_4_02 span {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0.075rem;
+  width: 1.1rem;
+  height: 1.6rem;
+  background-color: #333333;
+  border-radius: 0.15rem;
+  text-align: center;
+  line-height: 1.6rem;
+  font-size: 1.25rem;
+  color: #ffe535;
+}
+.hd_hongbao_4_03 {
+  text-align: center;
+  padding-top: 0.75rem;
+}
+.hd_hongbao_4_03 img {
+  vertical-align: top;
+  width: 4.15rem;
+}
+.hd_hongbao_4_04 {
+  padding-top: 1.25rem;
+  text-align: center;
+}
+.hd_hongbao_4_04 a {
+  font-size: 0.65rem;
+  color: #ffffff;
+}
+/*活动-红包-已开*/
+.hd_hongbaoyikai_1 {
+  background-image: url(../images/huodong_hongbao_yikai_1.gif);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 18rem;
+}
+.hd_hongbaoyikai_1_01 {
+  padding-top: 5.5rem;
+  height: 2.25rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_1_02 {
+  height: 6.75rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_1_02 span {
+  font-size: 1.9rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_1_03 {
+  text-align: center;
+}
+.hd_hongbaoyikai_1_03 a {
+  font-size: 0.65rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_2 {
+  margin-top: 1rem;
+  background-color: #333333;
+  padding: 1rem 0.75rem;
+}
+.hd_hongbaoyikai_2_01 {
+  padding-bottom: 0.4rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #ffe535;
+}
+.hd_hongbaoyikai_2_02 {
+  width: 100%;
+}
+.hd_hongbaoyikai_2_02 ul li {
+  padding: 0.5rem 0;
+  border-bottom: #eeeeee 0.025rem solid;
+}
+.hd_hongbaoyikai_2_02_1 {
+  width: 2.75rem;
+  float: left;
+}
+.hd_hongbaoyikai_2_02_1 img {
+  width: 2.15rem;
+  height: 2.15rem;
+  border-radius: 100%;
+  vertical-align: top;
+}
+.hd_hongbaoyikai_2_02_2 {
+  width: 8.75rem;
+  float: left;
+  font-size: 0.6rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_2_02_2 h2 {
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_2_02_2 span {
+  color: #ffe535;
+}
+.hd_hongbaoyikai_2_02_3 {
+  width: auto;
+  float: right;
+  line-height: 2.15rem;
+  font-size: 0.6rem;
+  color: #ffffff;
+}
+.hd_hongbaoyikai_2_03 {
+  padding-top: 1rem;
+  text-align: center;
+}
+.hd_hongbaoyikai_2_03 a {
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+/*中奖记录*/
+.hd_hongbao_zhongjiangjilu_1 {
+  height: 2.2rem;
+  text-align: center;
+  line-height: 2.2rem;
+  font-size: 0.7rem;
+  color: #666666;
+}
+.hd_hongbao_zhongjiangjilu_2 {
+  background-color: #ffffff;
+  padding: 0.75rem;
+}
+.hd_hongbao_zhongjiangjilu_2 ul li {
+  padding: 0.6rem 0;
+  border-bottom: #eeeeee 0.025rem solid;
+}
+.hd_hongbao_zhongjiangjilu_2_01 {
+  width: 2.75rem;
+  float: left;
+}
+.hd_hongbao_zhongjiangjilu_2_01 img {
+  width: 2.15rem;
+  height: 2.15rem;
+  border-radius: 100%;
+  vertical-align: top;
+}
+.hd_hongbao_zhongjiangjilu_2_02 {
+  width: 8.75rem;
+  float: left;
+  font-size: 0.6rem;
+  color: #999999;
+}
+.hd_hongbao_zhongjiangjilu_2_02 h2 {
+  font-size: 0.7rem;
+  color: #333333;
+  padding-bottom: 0.2rem;
+}
+.hd_hongbao_zhongjiangjilu_2_03 {
+  width: auto;
+  float: right;
+  height: 2.15rem;
+  line-height: 2.15rem;
+  font-size: 0.85rem;
+  color: #ff5363;
+}
+/*开心捡漏*/
+.hd_kaixinjianlou {
+  padding-bottom: 1rem;
+}
+.hd_kaixinjianlou_1 {
+  height: 2.5rem;
+  padding: 0 0.75rem;
+}
+.hd_kaixinjianlou_1_left {
+  width: auto;
+  float: left;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  font-size: 0.85rem;
+  color: #000000;
+}
+.hd_kaixinjianlou_1_left img {
+  vertical-align: middle;
+  width: 0.475rem;
+  height: 0.875rem;
+  margin-right: 0.1rem;
+}
+.hd_kaixinjianlou_1_right {
+  width: auto;
+  float: right;
+  padding-top: 0.75rem;
+}
+.hd_kaixinjianlou_1_right img {
+  width: 0.725rem;
+  height: 0.725rem;
+  vertical-align: top;
+}
+.hd_kaixinjianlou_2 {
+  text-align: center;
+  position: relative;
+}
+.hd_kaixinjianlou_2 img {
+  vertical-align: top;
+  width: 100%;
+}
+.hd_kaixinjianlou_2 span {
+  position: absolute;
+  z-index: 99;
+  top: 1rem;
+  right: 0;
+  display: inline-block;
+  width: 3.95rem;
+  height: 1.425rem;
+  background-color: #00c17b;
+  border-radius: 1.425rem 0 0 1.425rem;
+  text-align: center;
+  line-height: 1.425rem;
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_kaixinjianlou_3 {
+  height: 2.65rem;
+  background-color: #666666;
+}
+.hd_kaixinjianlou_3 ul li {
+  float: left;
+  width: 50%;
+}
+.hd_kaixinjianlou_3 ul li a {
+  width: 100%;
+  height: 2.65rem;
+  display: block;
+  text-align: center;
+  line-height: 2.65rem;
+  font-size: 0.7rem;
+  color: #ffffff;
+}
+.hd_kaixinjianlou_3 ul li .hd_kaixinjianlou_3_on {
+  background-color: #ff5363;
+}
+.hd_kaixinjianlou_4 {
+  padding: 0 0.75rem;
+}
+.hd_kaixinjianlou_4 ul li {
+  padding: 0.8rem 0;
+  border-bottom: #eeeeee 0.025rem solid;
+}
+.hd_kaixinjianlou_4_img {
+  width: 6rem;
+  height: 6rem;
+  float: left;
+  border-radius: 0.5rem;
+  text-align: center;
+  overflow: hidden;
+}
+.hd_kaixinjianlou_4_img img {
+  width: 100%;
+  vertical-align: top;
+}
+.hd_kaixinjianlou_4_tt {
+  width: 9.9rem;
+  float: right;
+}
+.hd_kaixinjianlou_4_tt_1 {
+  height: 2.25rem;
+  overflow: hidden;
+  font-size: 0.85rem;
+  color: #333333;
+  line-height: 1.125rem;
+}
+.hd_kaixinjianlou_4_tt_2 {
+  height: 1rem;
+}
+.hd_kaixinjianlou_4_tt_2_left {
+  width: 6.725rem;
+  height: 0.7rem;
+  float: left;
+  background-color: #ffe0b2;
+  border-radius: 0.7rem;
+  overflow: hidden;
+}
+.hd_kaixinjianlou_4_tt_2_left span {
+  width: 50%;
+  height: 0.7rem;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #ffab40;
+  border-radius: 0.7rem;
+}
+.hd_kaixinjianlou_4_tt_2_right {
+  width: auto;
+  float: right;
+  line-height: 0.7rem;
+  font-size: 0.5rem;
+  color: #999999;
+}
+.hd_kaixinjianlou_4_tt_3 {
+  padding-bottom: 0.5rem;
+  font-size: 0.6rem;
+  color: #999999;
+}
+.hd_kaixinjianlou_4_tt_4 {
+  width: 100%;
+}
+.hd_kaixinjianlou_4_tt_4_left {
+  width: auto;
+  float: left;
+  height: 1.325rem;
+  line-height: 1.325rem;
+  font-size: 1.05rem;
+  color: #00c17b;
+}
+.hd_kaixinjianlou_4_tt_4_right {
+  width: auto;
+  float: right;
+}
+.hd_kaixinjianlou_4_tt_4_right span {
+  display: inline-block;
+  width: 3.4rem;
+  height: 1.325rem;
+  background-color: #ff5363;
+  border-radius: 0.25rem;
+  text-align: center;
+  line-height: 1.325rem;
+  font-size: 0.65rem;
+  color: #ffffff;
+}
+.hd_kaixinjianlou_4_tt_21 {
+  width: 6.725rem;
+  height: 0.7rem;
+  float: left;
+  background-color: #cccccc;
+  border-radius: 0.7rem;
+  overflow: hidden;
+}

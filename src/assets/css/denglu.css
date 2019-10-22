@@ -1,0 +1,124 @@
+/* LESS Document */
+.denglu1 {
+  padding-bottom: 1rem;
+}
+.denglu1_1 {
+  height: 2.5rem;
+  text-align: center;
+  line-height: 2.5rem;
+  position: relative;
+  font-size: 0.85rem;
+  color: #000000;
+}
+.denglu1_1_left {
+  width: 0.475rem;
+  height: 0.875rem;
+  position: absolute;
+  z-index: 99;
+  top: 0.75rem;
+  left: 0.75rem;
+}
+.denglu1_1_left img {
+  vertical-align: top;
+  width: 0.475rem;
+}
+.denglu1_2 {
+  padding: 2.5rem 0.75rem 2rem;
+  font-size: 0.7rem;
+  color: #999999;
+}
+.denglu1_2 h2 {
+  font-size: 1.1rem;
+  color: #414042;
+  padding-bottom: 0.375rem;
+}
+.denglu1_3 {
+  margin: 0 0.75rem;
+  height: 2.25rem;
+  border-bottom: #d2d2d2 0.025rem solid;
+  line-height: 2.25rem;
+  font-size: 0.75rem;
+  color: #666666;
+}
+.denglu1_3 input {
+  width: 12rem;
+  height: 2.25rem;
+  vertical-align: top;
+  border: none;
+  background: none;
+  outline: none;
+  font-size: 1.25rem;
+  color: #414042;
+  margin-left: 0.25rem;
+}
+.denglu1_4 {
+  padding: 1.5rem 0;
+  text-align: center;
+}
+.denglu1_4 a {
+  display: inline-block;
+  width: 15.4rem;
+  height: 2.2rem;
+  background-color: #65d6ad;
+  border-radius: 0.25rem;
+  text-align: center;
+  line-height: 2.2rem;
+  font-size: 0.75rem;
+  color: #ffffff;
+}
+.denglu1_5 {
+  padding-top: 2.5rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: #666666;
+}
+.denglu1_5 img {
+  vertical-align: top;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+  margin-bottom: 0.25rem;
+}
+/*发送验证码*/
+.dl_fasongyazhengma_1 {
+  padding: 2.5rem 0.75rem 1.5rem;
+  font-size: 0.7rem;
+  color: #999999;
+}
+.dl_fasongyazhengma_1 h2 {
+  font-size: 1.1rem;
+  color: #414042;
+  padding-bottom: 0.35rem;
+}
+.dl_fasongyazhengma_1 span {
+  color: #00c17b;
+}
+.dl_fasongyazhengma_2 {
+  padding: 0 0.75rem 1rem;
+}
+.dl_fasongyazhengma_2 ul li {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+.dl_fasongyazhengma_2 ul li input {
+  width: 94%;
+  height: 2.25rem;
+  border-bottom: #d2d2d2 0.025rem solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  text-align: center;
+  font-size: 1.275rem;
+  color: #414042;
+}
+.dl_fasongyazhengma_2 ul li input:focus {
+  border-bottom: #00c17b 0.025rem solid;
+}
+.dl_fasongyazhengma_3 {
+  padding-top: 0.25rem;
+  padding-left: 1rem;
+  font-size: 0.7rem;
+  color: #999999;
+}
